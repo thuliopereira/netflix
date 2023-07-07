@@ -6,6 +6,7 @@ import Banner from './components/Banner';
 import Navbar from './components/Navbar';
 
 function App() {
+  window.alert("Tente clicar em um filme e veja o que acontece 😏😏😏");
   return (
     <div className='App'>
       <Navbar />
